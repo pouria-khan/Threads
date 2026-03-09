@@ -1,0 +1,173 @@
+{
+  "_meta": {
+    "scrape_ts": "2026-01-19T23:08:02.265689+00:00",
+    "endpoint": "/threads/user/search",
+    "query_name": "nike",
+    "http_status": 200,
+    "request_url": "https://ensembledata.com/apis/threads/user/search?name=nike&token=GobJlP7vKjn4Z5Jw"
+  },
+  "data": {
+    "data": [
+      {
+        "node": {
+          "username": "nike",
+          "pk": "13460080",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike",
+          "profile_pic_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/467733497_2299328197118830_1129133478722126916_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zOTYuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFqbIFFfIFLM0yv_-kRhWdFlkk0glEgtmXyagB_O_rXuwhC3nQt6SbV-daJEvkm38ie9BODLuGL_J7vh7mm3v2I&_nc_ohc=npzYEFrneB8Q7kNvwFQ99-g&_nc_gid=oHZkU95uUca7qmOSxAUKhQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afrm5aGZRBCvD4JL5jcZJllg1l4m0-Xnc9j50v-rLswozw&oe=6974A5A9&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "13460080"
+        }
+      },
+      {
+        "node": {
+          "username": "nikebasketball",
+          "pk": "306787899",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike Basketball",
+          "profile_pic_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/472611966_1346628060089832_2646747950168405836_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFqbIFFfIFLM0yv_-kRhWdFlkk0glEgtmXyagB_O_rXuwhC3nQt6SbV-daJEvkm38ie9BODLuGL_J7vh7mm3v2I&_nc_ohc=BffD6BBBFp4Q7kNvwEeYfMI&_nc_gid=oHZkU95uUca7qmOSxAUKhQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfrIJSyMbrGsmzDpo1-jNhXbqGeSAnt7ZbMk6zQnSjEjnQ&oe=697472F1&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "306787899"
+        }
+      },
+      {
+        "node": {
+          "username": "sandraniketic",
+          "pk": "196590009",
+          "is_active_on_text_post_app": true,
+          "full_name": "Sandra Niketic",
+          "profile_pic_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/476155925_2656022087917048_8665296386204100974_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QFqbIFFfIFLM0yv_-kRhWdFlkk0glEgtmXyagB_O_rXuwhC3nQt6SbV-daJEvkm38ie9BODLuGL_J7vh7mm3v2I&_nc_ohc=KAtuDJSJF4sQ7kNvwEISgEy&_nc_gid=oHZkU95uUca7qmOSxAUKhQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afo0ZRlk3iQ3dHvRaJYWOJUCv6f93juTqIXMdEZrLg2Tiw&oe=697476CE&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "196590009"
+        }
+      },
+      {
+        "node": {
+          "username": "nikesbornothing",
+          "pk": "1827628542",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike SB News, Info, And More",
+          "profile_pic_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/358033794_1250498812267915_1006609603724316066_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc4LmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QFqbIFFfIFLM0yv_-kRhWdFlkk0glEgtmXyagB_O_rXuwhC3nQt6SbV-daJEvkm38ie9BODLuGL_J7vh7mm3v2I&_nc_ohc=1Pl4HlVtiioQ7kNvwHYoiSO&_nc_gid=oHZkU95uUca7qmOSxAUKhQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfqLriM0rTnMzZUXpu6o8YShBR-3OtERcx8_vH0XbfKTUA&oe=697470FB&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "1827628542"
+        }
+      },
+      {
+        "node": {
+          "username": "nikeeyb",
+          "pk": "359256305",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike Elite Youth Basketball",
+          "profile_pic_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/358171318_223458633928284_6538571256479896049_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFqbIFFfIFLM0yv_-kRhWdFlkk0glEgtmXyagB_O_rXuwhC3nQt6SbV-daJEvkm38ie9BODLuGL_J7vh7mm3v2I&_nc_ohc=BjNRHkM4474Q7kNvwF9kgHS&_nc_gid=oHZkU95uUca7qmOSxAUKhQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfqhMj9fELESP4vIloyW5XqB_1xuFxTTOWvqvPfvE5zLlw&oe=69748C2E&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "359256305"
+        }
+      },
+      {
+        "node": {
+          "username": "nikesibande",
+          "pk": "227620115",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike",
+          "profile_pic_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/466062215_547299631563064_6229132383970490078_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QFqbIFFfIFLM0yv_-kRhWdFlkk0glEgtmXyagB_O_rXuwhC3nQt6SbV-daJEvkm38ie9BODLuGL_J7vh7mm3v2I&_nc_ohc=AIJBFzVDY78Q7kNvwHmK2Dx&_nc_gid=oHZkU95uUca7qmOSxAUKhQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afp0UWoC22ksaCecn9XphNgRopP9rcJFPOlIYlobSy60eA&oe=69748CA7&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "227620115"
+        }
+      },
+      {
+        "node": {
+          "username": "neyscustoms",
+          "pk": "29402898319",
+          "is_active_on_text_post_app": true,
+          "full_name": "NeysCustoms | Custom Nike Air Force 1 | Brautsneaker",
+          "profile_pic_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/532206558_18076032955978320_2407629687708368431_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFqbIFFfIFLM0yv_-kRhWdFlkk0glEgtmXyagB_O_rXuwhC3nQt6SbV-daJEvkm38ie9BODLuGL_J7vh7mm3v2I&_nc_ohc=dqCpiPnwXvoQ7kNvwGz_sj8&_nc_gid=oHZkU95uUca7qmOSxAUKhQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfrmmC5z0V9eZ2aCMLXmGi9-DYInEln9DWG8NdwLBmXYNQ&oe=697487B8&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "29402898319"
+        }
+      },
+      {
+        "node": {
+          "username": "itsnikenotnike",
+          "pk": "25076362",
+          "is_active_on_text_post_app": true,
+          "full_name": "Niké",
+          "profile_pic_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/553353225_18528491086052363_719816370238510397_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QFqbIFFfIFLM0yv_-kRhWdFlkk0glEgtmXyagB_O_rXuwhC3nQt6SbV-daJEvkm38ie9BODLuGL_J7vh7mm3v2I&_nc_ohc=F3hNKrDiWmUQ7kNvwEKJF8i&_nc_gid=oHZkU95uUca7qmOSxAUKhQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afrx2KXooC4j00xCl0ZtaZoXW8Jb7CjXND05GNDcGw3RNA&oe=69747363&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "25076362"
+        }
+      },
+      {
+        "node": {
+          "username": "nike.grau_89",
+          "pk": "27273512330",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nikedyson Cruz  ®️",
+          "profile_pic_url": "https://instagram.fbjx1-3.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fbjx1-3.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QGWhAxHvVSLjVm5ccIIAV2NyrPsIQQzIC7QZ08uYUpEIjp6XspoSKmggB6c3GUbajg&_nc_ohc=I-OAmjM3FnMQ7kNvwGdtg4v&_nc_gid=F5ApLQg3xfqEEESNUYApvw&edm=AGISLTEBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AfqaxtCRnCUoD52pHAomRXL-MUP_kC-3t6cBnsrVNovLEQ&oe=6974806A&_nc_sid=255e82",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "27273512330"
+        }
+      },
+      {
+        "node": {
+          "username": "nikeeolivera",
+          "pk": "173914672",
+          "is_active_on_text_post_app": true,
+          "full_name": "nikee",
+          "profile_pic_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/376786092_3657915944492556_78292326931310425_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTYuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFqbIFFfIFLM0yv_-kRhWdFlkk0glEgtmXyagB_O_rXuwhC3nQt6SbV-daJEvkm38ie9BODLuGL_J7vh7mm3v2I&_nc_ohc=HPxh8tJ2_RUQ7kNvwHcBSk0&_nc_gid=oHZkU95uUca7qmOSxAUKhQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afp6_Knq99E1EvkFzAo8nlraFEbVNR5awohN0IK6J-_cfQ&oe=69749422&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "173914672"
+        }
+      }
+    ]
+  }
+}

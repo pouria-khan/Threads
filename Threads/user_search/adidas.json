@@ -1,0 +1,141 @@
+{
+  "_meta": {
+    "scrape_ts": "2026-01-19T23:08:00.535285+00:00",
+    "endpoint": "/threads/user/search",
+    "query_name": "adidas",
+    "http_status": 200,
+    "request_url": "https://ensembledata.com/apis/threads/user/search?name=adidas&token=GobJlP7vKjn4Z5Jw"
+  },
+  "data": {
+    "data": [
+      {
+        "node": {
+          "username": "adidas",
+          "pk": "20269764",
+          "is_active_on_text_post_app": true,
+          "full_name": "adidas",
+          "profile_pic_url": "https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/358031202_649294667110584_7301726495721752782_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zODQuYzIifQ&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFxUp1xIZDBv48eTO7U91FMeSV9ran7mioSqHe5zyQP00RuqRiXMJmOzfQ6uqh4r7HZFN1zxPDsL66sVmyKUhKP&_nc_ohc=GeK1oI0pxGMQ7kNvwFLl2RT&_nc_gid=LNhQ_A2DTaNnhs9eOAeA4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afri6JqSAt7hOi18E2MdCyh_wgkdXYsWod8loI9g7YPBpQ&oe=69747AC3&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "20269764"
+        }
+      },
+      {
+        "node": {
+          "username": "royalsport.kg",
+          "pk": "66435351468",
+          "is_active_on_text_post_app": true,
+          "full_name": "ADIDAS ROYALSPORT",
+          "profile_pic_url": "https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/543820159_17843374755571770_316116801828645381_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QFxUp1xIZDBv48eTO7U91FMeSV9ran7mioSqHe5zyQP00RuqRiXMJmOzfQ6uqh4r7HZFN1zxPDsL66sVmyKUhKP&_nc_ohc=RTAAyP54RK4Q7kNvwEdmUoS&_nc_gid=LNhQ_A2DTaNnhs9eOAeA4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfrncjgV_0VvjlrYecSkk0iUXR0SpcYzmlnz6RykxqK46A&oe=6974720B&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "66435351468"
+        }
+      },
+      {
+        "node": {
+          "username": "sam.sportalbania",
+          "pk": "60852292509",
+          "is_active_on_text_post_app": true,
+          "full_name": "Sam Sport  Adidas",
+          "profile_pic_url": "https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/487829114_970891138497498_1784830138444167621_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QFxUp1xIZDBv48eTO7U91FMeSV9ran7mioSqHe5zyQP00RuqRiXMJmOzfQ6uqh4r7HZFN1zxPDsL66sVmyKUhKP&_nc_ohc=vGd1ERF3dqIQ7kNvwE46IV9&_nc_gid=LNhQ_A2DTaNnhs9eOAeA4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfpxDJGFfSS5iJC60-AuXh1bkMn94Q9A02LbXVF1oUr-9Q&oe=69749B7C&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "60852292509"
+        }
+      },
+      {
+        "node": {
+          "username": "adidaswomen",
+          "pk": "39486634",
+          "is_active_on_text_post_app": true,
+          "full_name": "adidas Women",
+          "profile_pic_url": "https://instagram.fpss4-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fpss4-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QEqagQ497Pgn0oLkl6u0DUmulpf7IhpTt-dXb3aXeviH8dzm16k-kgEe0zlCCJyudE&_nc_ohc=I-OAmjM3FnMQ7kNvwEnrJ_d&_nc_gid=4f4UmPOvIa5300IwCj7UDw&edm=ALlQn9MBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AfpE_dpWrH3do_ydiGb3V7IwwpoB-AQA3nJFCtFDTy5B4Q&oe=6974806A&_nc_sid=e7f676",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "39486634"
+        }
+      },
+      {
+        "node": {
+          "username": "original.shop.aqtau",
+          "pk": "45375169146",
+          "is_active_on_text_post_app": true,
+          "full_name": "Reebok, Adidas, Nike",
+          "profile_pic_url": "https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/552843213_17843839845579165_6733236732378750060_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFxUp1xIZDBv48eTO7U91FMeSV9ran7mioSqHe5zyQP00RuqRiXMJmOzfQ6uqh4r7HZFN1zxPDsL66sVmyKUhKP&_nc_ohc=VHXv7WtNwz4Q7kNvwHUJ6h1&_nc_gid=LNhQ_A2DTaNnhs9eOAeA4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfooHLT7kIfw-Jjfy2Q3UTQMAT-kYpExHE-UVZQiVU6_BQ&oe=69749698&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "45375169146"
+        }
+      },
+      {
+        "node": {
+          "username": "splitsmx",
+          "pk": "55022890368",
+          "is_active_on_text_post_app": true,
+          "full_name": "adidas Splits",
+          "profile_pic_url": "https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/610813469_18006021596834369_1607745858600802288_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NjcuYzIifQ&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QFxUp1xIZDBv48eTO7U91FMeSV9ran7mioSqHe5zyQP00RuqRiXMJmOzfQ6uqh4r7HZFN1zxPDsL66sVmyKUhKP&_nc_ohc=BjqVRiC-LM8Q7kNvwHr0Ot3&_nc_gid=LNhQ_A2DTaNnhs9eOAeA4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfoDnRZMoze9olh4o_CkcyUr9V3Ofx6xy_yq9eg9ejo6LQ&oe=69749006&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "55022890368"
+        }
+      },
+      {
+        "node": {
+          "username": "adidasiq",
+          "pk": "8076991854",
+          "is_active_on_text_post_app": true,
+          "full_name": "Adidas IRAQ",
+          "profile_pic_url": "https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/359129561_789721196227010_1111931844610576033_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QFxUp1xIZDBv48eTO7U91FMeSV9ran7mioSqHe5zyQP00RuqRiXMJmOzfQ6uqh4r7HZFN1zxPDsL66sVmyKUhKP&_nc_ohc=9o7dP6qix64Q7kNvwFr1u6v&_nc_gid=LNhQ_A2DTaNnhs9eOAeA4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfrYyc8SKCQBSkOFTux9AT1ZQNbBCAuytB05aOHP0Hmurg&oe=6974821C&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "8076991854"
+        }
+      },
+      {
+        "node": {
+          "username": "adidas_nike_puma_tj",
+          "pk": "65967849072",
+          "is_active_on_text_post_app": true,
+          "full_name": "Original. МИКС БРЕНДОВ",
+          "profile_pic_url": "https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/490508412_2207516776331218_7276132788316917225_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFxUp1xIZDBv48eTO7U91FMeSV9ran7mioSqHe5zyQP00RuqRiXMJmOzfQ6uqh4r7HZFN1zxPDsL66sVmyKUhKP&_nc_ohc=ELSnQuHHcQMQ7kNvwElyvEo&_nc_gid=LNhQ_A2DTaNnhs9eOAeA4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afp9fnJht6N7cQ02DYwhPfemc71--WJt5C7qe7NgjLoK5g&oe=697482A3&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "65967849072"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "scrape_ts": "2026-03-08T20:45:10.150715+00:00",
+    "endpoint": "/threads/user/posts",
+    "query_id": "13460080",
+    "page": 1,
+    "chunk_size": 5,
+    "cursor_used": null,
+    "error": "HTTPError: 493 Client Error:  for url: https://ensembledata.com/apis/threads/user/posts?id=13460080&chunk_size=5&token=GobJlP7vKjn4Z5Jw"
+  },
+  "data": null
+}

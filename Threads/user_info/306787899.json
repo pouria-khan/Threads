@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "scrape_ts": "2026-01-27T14:07:11.043129+00:00",
+    "endpoint": "/threads/user/info",
+    "query_id": "306787899",
+    "http_status": 200,
+    "request_url": "https://ensembledata.com/apis/threads/user/info?id=306787899&token=vKLIay8miZKARJKU"
+  },
+  "data": {
+    "data": {
+      "pk": "306787899",
+      "text_post_app_is_private": false,
+      "hd_profile_pic_versions": [
+        {
+          "height": 320,
+          "url": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/472611966_1346628060089832_2646747950168405836_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFkAnP04psgmCvf7NNXL7FvG79hE4R7gKgRRyjM0oZcKy7ILSz21DIdfEaLxASgiiQ&_nc_ohc=hm9dKe8-5eYQ7kNvwFY0E87&_nc_gid=gGtVNxyM_W1uAIxO5x0d5A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afrdg0kwR3-nkN0l7YtB8D9s98I92w2mks0nzx9L87fr6Q&oe=697E8E71&_nc_sid=10d13b",
+          "width": 320
+        },
+        {
+          "height": 640,
+          "url": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/472611966_1346628060089832_2646747950168405836_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFkAnP04psgmCvf7NNXL7FvG79hE4R7gKgRRyjM0oZcKy7ILSz21DIdfEaLxASgiiQ&_nc_ohc=hm9dKe8-5eYQ7kNvwFY0E87&_nc_gid=gGtVNxyM_W1uAIxO5x0d5A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfrOcnyusqEL03ThInaYRON3EFJW1YG6Fs5E-mzR_sLwAg&oe=697E8E71&_nc_sid=10d13b",
+          "width": 640
+        }
+      ],
+      "profile_pic_url": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/472611966_1346628060089832_2646747950168405836_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFkAnP04psgmCvf7NNXL7FvG79hE4R7gKgRRyjM0oZcKy7ILSz21DIdfEaLxASgiiQ&_nc_ohc=hm9dKe8-5eYQ7kNvwFY0E87&_nc_gid=gGtVNxyM_W1uAIxO5x0d5A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afq9KBB8kLLXb5zVeZIkYCGdX8b_ZlA9E9mOkmcfo7z3sw&oe=697E8E71&_nc_sid=10d13b",
+      "username": "nikebasketball",
+      "friendship_status": null,
+      "follower_count": 1632090,
+      "profile_context_facepile_users": null,
+      "eligible_for_text_app_activation_badge": false,
+      "hide_text_app_activation_badge_on_text_app": false,
+      "biography": "Fit for a King. The LeBron XXIII has arrived.",
+      "text_app_biography": {
+        "text_fragments": {
+          "fragments": [
+            {
+              "fragment_type": "plaintext",
+              "link_fragment": null,
+              "mention_fragment": null,
+              "plaintext": "Fit for a King. The LeBron XXIII has arrived.",
+              "tag_fragment": null
+            }
+          ]
+        }
+      },
+      "account_badges": [],
+      "text_post_app_remove_mention_entrypoint": null,
+      "is_verified": true,
+      "full_name": "Nike Basketball",
+      "bio_links": [
+        {
+          "url": "http://empli.fi/nikebasketball",
+          "is_verified": false,
+          "link_id": "17878094288744613"
+        }
+      ],
+      "transparency_label": null,
+      "is_threads_only_user": false,
+      "gating": null,
+      "id": "306787899"
+    }
+  }
+}

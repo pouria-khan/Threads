@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "scrape_ts": "2026-01-27T14:07:16.735221+00:00",
+    "endpoint": "/threads/user/info",
+    "query_id": "359256305",
+    "http_status": 200,
+    "request_url": "https://ensembledata.com/apis/threads/user/info?id=359256305&token=vKLIay8miZKARJKU"
+  },
+  "data": {
+    "data": {
+      "pk": "359256305",
+      "text_post_app_is_private": false,
+      "hd_profile_pic_versions": [
+        {
+          "height": 320,
+          "url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/358171318_223458633928284_6538571256479896049_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFHwMiQPSNqr9rOKfRA7hTRodonz0LBqe7PKxSOBRigpJ92gI1ajYOOiz43VnHdsV4&_nc_ohc=n5LYibfpSgAQ7kNvwH5CN_F&_nc_gid=7Kqm2juxgR3oaUvkLd6acg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afp6gMkwJujqdSOSKDUmgKCQzEQruPTASZZp7XcpNW25mg&oe=697EA7AE&_nc_sid=10d13b",
+          "width": 320
+        }
+      ],
+      "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/358171318_223458633928284_6538571256479896049_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFHwMiQPSNqr9rOKfRA7hTRodonz0LBqe7PKxSOBRigpJ92gI1ajYOOiz43VnHdsV4&_nc_ohc=n5LYibfpSgAQ7kNvwH5CN_F&_nc_gid=7Kqm2juxgR3oaUvkLd6acg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afp34B3M04JVaHPiWYjppgwKI3YPW8fbGHe0d_8dPEFpLA&oe=697EA7AE&_nc_sid=10d13b",
+      "username": "nikeeyb",
+      "friendship_status": null,
+      "follower_count": 95847,
+      "profile_context_facepile_users": null,
+      "eligible_for_text_app_activation_badge": false,
+      "hide_text_app_activation_badge_on_text_app": false,
+      "biography": "Nike Elite Youth Basketball. Just do it.",
+      "text_app_biography": {
+        "text_fragments": {
+          "fragments": [
+            {
+              "fragment_type": "plaintext",
+              "link_fragment": null,
+              "mention_fragment": null,
+              "plaintext": "Nike Elite Youth Basketball. Just do it.",
+              "tag_fragment": null
+            }
+          ]
+        }
+      },
+      "account_badges": [],
+      "text_post_app_remove_mention_entrypoint": null,
+      "is_verified": true,
+      "full_name": "Nike Elite Youth Basketball",
+      "bio_links": [
+        {
+          "url": "https://nikeeyb.com",
+          "is_verified": false,
+          "link_id": "18047552386478414"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC0b0TSH-qJksEueC4aLq-lQ",
+          "is_verified": false,
+          "link_id": "17984074292541455"
+        },
+        {
+          "url": "https://nikeeyb.com/jreybl-standings",
+          "is_verified": false,
+          "link_id": "17866315329347205"
+        },
+        {
+          "url": "https://forms.gle/FHbrmDis21QLSuj19",
+          "is_verified": false,
+          "link_id": "17961156572905995"
+        }
+      ],
+      "transparency_label": null,
+      "is_threads_only_user": false,
+      "gating": null,
+      "id": "359256305"
+    }
+  }
+}

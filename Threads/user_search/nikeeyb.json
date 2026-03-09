@@ -1,0 +1,125 @@
+{
+  "_meta": {
+    "scrape_ts": "2026-01-27T13:59:38.628819+00:00",
+    "endpoint": "/threads/user/search",
+    "query_name": "nikeeyb",
+    "http_status": 200,
+    "request_url": "https://ensembledata.com/apis/threads/user/search?name=nikeeyb&token=vKLIay8miZKARJKU"
+  },
+  "data": {
+    "data": [
+      {
+        "node": {
+          "username": "nikeeyb",
+          "pk": "359256305",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike Elite Youth Basketball",
+          "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/358171318_223458633928284_6538571256479896049_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QE8EgB-3WME4bKEyYwWyCEjt4h5dGxjFyVq9Gj5DqC2mFz71FC8VoWlGXuHbXgEXV0&_nc_ohc=n5LYibfpSgAQ7kNvwEwGqsK&_nc_gid=XVhhddREy8SRGCAJUpdv8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfoWfUJ3bgAegkoIivTqCKFEWNrNhgWu4T95kPM1RFFdjA&oe=697EA7AE&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "359256305"
+        }
+      },
+      {
+        "node": {
+          "username": "nikegirlseybl",
+          "pk": "1090677444",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike Girls EYBL",
+          "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/456622576_522168130194271_3313849531012320796_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QE8EgB-3WME4bKEyYwWyCEjt4h5dGxjFyVq9Gj5DqC2mFz71FC8VoWlGXuHbXgEXV0&_nc_ohc=HzcvcZCSMzcQ7kNvwF3GUgZ&_nc_gid=XVhhddREy8SRGCAJUpdv8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfrmTia-hfs1r6r030__HYi8M7Dz1bUyn20oo11ilWW7Xw&oe=697E8E0F&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "1090677444"
+        }
+      },
+      {
+        "node": {
+          "username": "__nikeeyyy___",
+          "pk": "56678926075",
+          "is_active_on_text_post_app": true,
+          "full_name": "NIKEEYy☺️",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.2885-19/396629620_1439071006637969_5158074878364643147_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QE8EgB-3WME4bKEyYwWyCEjt4h5dGxjFyVq9Gj5DqC2mFz71FC8VoWlGXuHbXgEXV0&_nc_ohc=HLLW6kgTlgUQ7kNvwGWU6nT&_nc_gid=XVhhddREy8SRGCAJUpdv8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfrXoDYZ31Blw-V7ITGLcnDLOfJI6DhBE-yZKl7hdTaAig&oe=697EB0B2&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "56678926075"
+        }
+      },
+      {
+        "node": {
+          "username": "nikeeyb45",
+          "pk": "53597934219",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nikeeyb",
+          "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/361134538_662370725946526_8756799502733571795_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QE8EgB-3WME4bKEyYwWyCEjt4h5dGxjFyVq9Gj5DqC2mFz71FC8VoWlGXuHbXgEXV0&_nc_ohc=KoYcV4QZHw0Q7kNvwGjvlZc&_nc_gid=XVhhddREy8SRGCAJUpdv8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afpb-x4vv_l4UzFawXFTvO80Vg7lG2L0EJzQBrXwcb3AAg&oe=697E7CDA&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "53597934219"
+        }
+      },
+      {
+        "node": {
+          "username": "nikeey.b",
+          "pk": "2487648541",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nikesh Ratna Bazracharya🧿🪬",
+          "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHkN8eJxiKp514Bogu_3yfT2A3anARhs5eFxmXHxDqmRXxVCPItZbtqpwrlNUIJpas&_nc_ohc=5RbL11Zchq0Q7kNvwE2EiaM&_nc_gid=WPE_08pao_rti6brxz3ppA&edm=AEaYFD0BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AfqfaijXCgMzKGc-pxsXILaRPS9DTcg5oDn7hOde3s8-qg&oe=697E9BEA&_nc_sid=de718f",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "2487648541"
+        }
+      },
+      {
+        "node": {
+          "username": "nikeeybakshi",
+          "pk": "29353827",
+          "is_active_on_text_post_app": true,
+          "full_name": "NIKEEY BAKSHI",
+          "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/474929044_9616586938351562_2605599616138656419_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QE8EgB-3WME4bKEyYwWyCEjt4h5dGxjFyVq9Gj5DqC2mFz71FC8VoWlGXuHbXgEXV0&_nc_ohc=Jh7gu3r-q4QQ7kNvwHdc2Hi&_nc_gid=XVhhddREy8SRGCAJUpdv8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfpQPPBdu1i9x4I3wGVRK4GvJlCV9q5qCoUL-WbuV56U6A&oe=697E8896&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "29353827"
+        }
+      },
+      {
+        "node": {
+          "username": "baibeey",
+          "pk": "9391371840",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nikeey Baibeey",
+          "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/433446219_343237032037818_8990138350747576318_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QE8EgB-3WME4bKEyYwWyCEjt4h5dGxjFyVq9Gj5DqC2mFz71FC8VoWlGXuHbXgEXV0&_nc_ohc=V90WwKsfHu4Q7kNvwHmm9Hf&_nc_gid=XVhhddREy8SRGCAJUpdv8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfpT9zj3Ss0LwICQdgu7T3J7Duet_XC02mol__DVkloQGA&oe=697E7F42&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "9391371840"
+        }
+      }
+    ]
+  }
+}

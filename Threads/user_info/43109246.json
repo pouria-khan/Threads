@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "scrape_ts": "2026-01-27T14:07:08.073177+00:00",
+    "endpoint": "/threads/user/info",
+    "query_id": "43109246",
+    "http_status": 200,
+    "request_url": "https://ensembledata.com/apis/threads/user/info?id=43109246&token=vKLIay8miZKARJKU"
+  },
+  "data": {
+    "data": {
+      "pk": "43109246",
+      "text_post_app_is_private": false,
+      "hd_profile_pic_versions": [
+        {
+          "height": 320,
+          "url": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/449633235_992203272636674_7583310386291018386_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUyLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF_TPJogap8IO-gADPcQf-cqTxgaP6cErkJfPVRP0KZFMb9PUUFctAY6zlOSu_mIkIYlnfBEiwQaVjCITdY6A2C&_nc_ohc=ef7ELD-qwjIQ7kNvwEphUhw&_nc_gid=rnADunQ4f4Pleb4x0PfmFw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfrPPDdUgJVJUDeZhij_4ScQdilxLEUdaJe5PFRMIxpr1A&oe=697E8303&_nc_sid=10d13b",
+          "width": 320
+        },
+        {
+          "height": 640,
+          "url": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/449633235_992203272636674_7583310386291018386_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUyLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF_TPJogap8IO-gADPcQf-cqTxgaP6cErkJfPVRP0KZFMb9PUUFctAY6zlOSu_mIkIYlnfBEiwQaVjCITdY6A2C&_nc_ohc=ef7ELD-qwjIQ7kNvwEphUhw&_nc_gid=rnADunQ4f4Pleb4x0PfmFw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfqOdh2E2sjaZjNOZDFhrC4bpCIG8cFAXFPPiAgmuDX-bg&oe=697E8303&_nc_sid=10d13b",
+          "width": 640
+        }
+      ],
+      "profile_pic_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/449633235_992203272636674_7583310386291018386_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUyLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF_TPJogap8IO-gADPcQf-cqTxgaP6cErkJfPVRP0KZFMb9PUUFctAY6zlOSu_mIkIYlnfBEiwQaVjCITdY6A2C&_nc_ohc=ef7ELD-qwjIQ7kNvwEphUhw&_nc_gid=rnADunQ4f4Pleb4x0PfmFw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afr_EPRA3M2JErpAyHy7cEox6GetSX2OlLU8UCUz3_KghA&oe=697E8303&_nc_sid=10d13b",
+      "username": "bmw",
+      "friendship_status": null,
+      "follower_count": 6505506,
+      "profile_context_facepile_users": null,
+      "eligible_for_text_app_activation_badge": false,
+      "hide_text_app_activation_badge_on_text_app": false,
+      "biography": "The official #BMW account, home of Sheer Driving Pleasure.\nUse #BMWRepost for the chance to get featured.",
+      "text_app_biography": {
+        "text_fragments": {
+          "fragments": [
+            {
+              "fragment_type": "plaintext",
+              "link_fragment": null,
+              "mention_fragment": null,
+              "plaintext": "The official #BMW account, home of Sheer Driving Pleasure.\nUse #BMWRepost for the chance to get featured.",
+              "tag_fragment": null
+            }
+          ]
+        }
+      },
+      "account_badges": [],
+      "text_post_app_remove_mention_entrypoint": null,
+      "is_verified": true,
+      "full_name": "BMW",
+      "bio_links": [
+        {
+          "url": "https://www.bmwgroup.com/en.html",
+          "is_verified": false,
+          "link_id": "17994151328609929"
+        },
+        {
+          "url": "https://b.mw/lifestylestore",
+          "is_verified": false,
+          "link_id": "17993926127575623"
+        },
+        {
+          "url": "https://www.bmwgroup.com/en/general/social-media-privacy-policy/instagram.html",
+          "is_verified": false,
+          "link_id": "18016518278278480"
+        }
+      ],
+      "transparency_label": null,
+      "is_threads_only_user": false,
+      "gating": null,
+      "id": "43109246"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "_meta": {
+    "scrape_ts": "2026-01-27T13:59:40.570004+00:00",
+    "endpoint": "/threads/user/search",
+    "query_name": "nikebasketball",
+    "http_status": 200,
+    "request_url": "https://ensembledata.com/apis/threads/user/search?name=nikebasketball&token=vKLIay8miZKARJKU"
+  },
+  "data": {
+    "data": [
+      {
+        "node": {
+          "username": "nikebasketball",
+          "pk": "306787899",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike Basketball",
+          "profile_pic_url": "https://scontent-mia5-2.cdninstagram.com/v/t51.2885-19/472611966_1346628060089832_2646747950168405836_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QG9FOPNyO7L1HSV-LCNhQSOeyLUPaxLCYum6ZZ2MLMFkJ3WYyFSWgjTUbw57UaNdv8&_nc_ohc=hm9dKe8-5eYQ7kNvwGtZHfG&_nc_gid=pYKdXLnsRJoIW47HxC33Hw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afqzu_kZsIsGiNh_buAIHoF3KoeHUkOKWDWf90xsJ0qVHQ&oe=697E8E71&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "306787899"
+        }
+      },
+      {
+        "node": {
+          "username": "nikeeyb",
+          "pk": "359256305",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike Elite Youth Basketball",
+          "profile_pic_url": "https://scontent-mia5-2.cdninstagram.com/v/t51.2885-19/358171318_223458633928284_6538571256479896049_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QG9FOPNyO7L1HSV-LCNhQSOeyLUPaxLCYum6ZZ2MLMFkJ3WYyFSWgjTUbw57UaNdv8&_nc_ohc=n5LYibfpSgAQ7kNvwH5Map4&_nc_gid=pYKdXLnsRJoIW47HxC33Hw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfrVpDZE86lPPbvjIj1adT0bS8QKYlAtl95_AB0k8b7xJw&oe=697EA7AE&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "359256305"
+        }
+      },
+      {
+        "node": {
+          "username": "nikebasketballshootingcamp",
+          "pk": "48498000244",
+          "is_active_on_text_post_app": true,
+          "full_name": "Randy B Ball",
+          "profile_pic_url": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-19/509625900_18047309099616245_3987573820321948645_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QG9FOPNyO7L1HSV-LCNhQSOeyLUPaxLCYum6ZZ2MLMFkJ3WYyFSWgjTUbw57UaNdv8&_nc_ohc=g6flNubMXSYQ7kNvwHUMmEc&_nc_gid=pYKdXLnsRJoIW47HxC33Hw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfqYGn8oW2GD76kjvjOCQ8fX4x3_5d6soYjouGGGlQ_D3A&oe=697EAAFE&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "48498000244"
+        }
+      },
+      {
+        "node": {
+          "username": "nikebaskeetballl",
+          "pk": "75405068351",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike Basketball",
+          "profile_pic_url": "https://scontent-mia5-1.cdninstagram.com/v/t51.2885-19/505747445_17842415856516352_864898679227110202_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QG9FOPNyO7L1HSV-LCNhQSOeyLUPaxLCYum6ZZ2MLMFkJ3WYyFSWgjTUbw57UaNdv8&_nc_ohc=gl9XVLncH70Q7kNvwFzy_IR&_nc_gid=pYKdXLnsRJoIW47HxC33Hw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfoNFaPQYpyrpOkxQv4l0KBKIe8i4yZqbMFVshsf28txZw&oe=697E9296&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "75405068351"
+        }
+      },
+      {
+        "node": {
+          "username": "h7959276h725",
+          "pk": "3282429949",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike Basketball Shoes",
+          "profile_pic_url": "https://instagram.fasu6-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fasu6-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QG2q1sSJ_io04rDh2G_0D-wu0hr_4ySncZBYgwBrYnj6SC5N2CdNHH2LK94MowZcUk&_nc_ohc=5RbL11Zchq0Q7kNvwFUFVlr&_nc_gid=Rq5RbH6YOKPVr4_fPHfkMw&edm=AA0lj5EBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AfpxwKnyyNAAKql5mxkuNQsW0Lqjp-dPPsBw0M0Sdk-Low&oe=697E9BEA&_nc_sid=0a490e",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "3282429949"
+        }
+      }
+    ]
+  }
+}

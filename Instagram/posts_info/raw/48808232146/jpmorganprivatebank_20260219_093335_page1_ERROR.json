@@ -1,0 +1,9 @@
+{
+  "user_id": 48808232146,
+  "username": "jpmorganprivatebank",
+  "brand": "J.P. Morgan",
+  "page": 1,
+  "cursor": "",
+  "error_type": "unknown",
+  "error": "HTTPSConnectionPool(host='ensembledata.com', port=443): Read timed out. (read timeout=30)"
+}

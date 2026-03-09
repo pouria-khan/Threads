@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "scrape_ts": "2026-01-27T14:07:14.830497+00:00",
+    "endpoint": "/threads/user/info",
+    "query_id": "2568684",
+    "http_status": 200,
+    "request_url": "https://ensembledata.com/apis/threads/user/info?id=2568684&token=vKLIay8miZKARJKU"
+  },
+  "data": {
+    "data": {
+      "pk": "2568684",
+      "text_post_app_is_private": false,
+      "hd_profile_pic_versions": [
+        {
+          "height": 320,
+          "url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/358333583_974408453800355_669778040334188957_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QHl6YS-oP2PCIy2b1niXjxk8S576hkn52m0am1o9-Oq-xF9hx7h6KK7CUZT_KPE-Es&_nc_ohc=92lbbPEgad4Q7kNvwE-d4b8&_nc_gid=34NIBd2HGffAp1IE0yND7g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfqNGda7x82zLa4GK1o7Cxa894JbMAOUbTmvFXPjuOkGCA&oe=697EB1D4&_nc_sid=10d13b",
+          "width": 320
+        },
+        {
+          "height": 640,
+          "url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/358333583_974408453800355_669778040334188957_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QHl6YS-oP2PCIy2b1niXjxk8S576hkn52m0am1o9-Oq-xF9hx7h6KK7CUZT_KPE-Es&_nc_ohc=92lbbPEgad4Q7kNvwE-d4b8&_nc_gid=34NIBd2HGffAp1IE0yND7g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfqmAI-YTOmIuS5YVTCJuz1x48MiTkC8-A3qBaUEI00ZOQ&oe=697EB1D4&_nc_sid=10d13b",
+          "width": 640
+        }
+      ],
+      "profile_pic_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/358333583_974408453800355_669778040334188957_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QHl6YS-oP2PCIy2b1niXjxk8S576hkn52m0am1o9-Oq-xF9hx7h6KK7CUZT_KPE-Es&_nc_ohc=92lbbPEgad4Q7kNvwE-d4b8&_nc_gid=34NIBd2HGffAp1IE0yND7g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afr9HdLQSgUY0KSRxhIqH2qIjwPUOErvFMspfOQsl7M1Iw&oe=697EB1D4&_nc_sid=10d13b",
+      "username": "nikediamond",
+      "friendship_status": null,
+      "follower_count": 154986,
+      "profile_context_facepile_users": null,
+      "eligible_for_text_app_activation_badge": false,
+      "hide_text_app_activation_badge_on_text_app": false,
+      "biography": "Winning Isn’t For Everyone. It’s for those who do whatever it takes.",
+      "text_app_biography": {
+        "text_fragments": {
+          "fragments": [
+            {
+              "fragment_type": "plaintext",
+              "link_fragment": null,
+              "mention_fragment": null,
+              "plaintext": "Winning Isn’t For Everyone. It’s for those who do whatever it takes.",
+              "tag_fragment": null
+            }
+          ]
+        }
+      },
+      "account_badges": [],
+      "text_post_app_remove_mention_entrypoint": null,
+      "is_verified": true,
+      "full_name": "Nike Diamond",
+      "bio_links": [
+        {
+          "url": "https://www.mlb.com/rbi/program-near-you",
+          "is_verified": false,
+          "link_id": "18308996536059383"
+        }
+      ],
+      "transparency_label": null,
+      "is_threads_only_user": false,
+      "gating": null,
+      "id": "2568684"
+    }
+  }
+}

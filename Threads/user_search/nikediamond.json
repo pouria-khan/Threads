@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "scrape_ts": "2026-01-27T13:59:45.189656+00:00",
+    "endpoint": "/threads/user/search",
+    "query_name": "nikediamond",
+    "http_status": 200,
+    "request_url": "https://ensembledata.com/apis/threads/user/search?name=nikediamond&token=vKLIay8miZKARJKU"
+  },
+  "data": {
+    "data": [
+      {
+        "node": {
+          "username": "nikediamond",
+          "pk": "2568684",
+          "is_active_on_text_post_app": true,
+          "full_name": "Nike Diamond",
+          "profile_pic_url": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/358333583_974408453800355_669778040334188957_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QG617Wmqyfkat7TlpokCM0q7YrwhSkVwYbPJBkzgZqYtA0Du9KTrB574Cjwbtlsu2c&_nc_ohc=92lbbPEgad4Q7kNvwGy-i8I&_nc_gid=oS902D0o3ikzLtpbnEMAig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfoNelFGhdYVOXzdkWFwtzLL-LonrnUrLw2utS_4b0TGYw&oe=697EB1D4&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "2568684"
+        }
+      },
+      {
+        "node": {
+          "username": "_nikedts",
+          "pk": "62512032774",
+          "is_active_on_text_post_app": true,
+          "full_name": "NIKE Diamond TowerS",
+          "profile_pic_url": "https://scontent-mia5-1.cdninstagram.com/v/t51.2885-19/457181394_952646096548324_3713404572085174246_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NTYuYzIifQ&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QG617Wmqyfkat7TlpokCM0q7YrwhSkVwYbPJBkzgZqYtA0Du9KTrB574Cjwbtlsu2c&_nc_ohc=0_7F4Ym0FFUQ7kNvwHQPf41&_nc_gid=oS902D0o3ikzLtpbnEMAig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfphTzr8lYM4D2Ct4WQtcjVWN0HTl0rhLntybojfJ-a_Uw&oe=697EA04A&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "62512032774"
+        }
+      },
+      {
+        "node": {
+          "username": "nike.diamond",
+          "pk": "2011852069",
+          "is_active_on_text_post_app": true,
+          "full_name": "",
+          "profile_pic_url": "https://instagram.fcdp1-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fcdp1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF9qbErMinkgS1ROOr7YVMGNxoAE261wwWaMX5qBFkSGJiux5gdPuIyGopONvIjPFt5PQDc0nPXUYoHvAI9pJV5&_nc_ohc=5RbL11Zchq0Q7kNvwG8HbdW&_nc_gid=cA5QxXa0-b_wVDm7YwKlmA&edm=ALXcmt0BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Afolg-qoF6LFBRpg4pv1eQQ55Rg2YOqVhH1YvFQgFJ4LyA&oe=697E9BEA&_nc_sid=06c8e0",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "2011852069"
+        }
+      },
+      {
+        "node": {
+          "username": "nikediamondbar01",
+          "pk": "8944365880",
+          "is_active_on_text_post_app": true,
+          "full_name": "Ade Omole",
+          "profile_pic_url": "https://scontent-mia5-1.cdninstagram.com/v/t51.2885-19/483647303_944118874557206_7990401345338411042_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MzguYzIifQ&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG617Wmqyfkat7TlpokCM0q7YrwhSkVwYbPJBkzgZqYtA0Du9KTrB574Cjwbtlsu2c&_nc_ohc=V2e6i3k7XmsQ7kNvwG-_nMy&_nc_gid=oS902D0o3ikzLtpbnEMAig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfpxtVpVB2NKDm2vCXl930wQLB7hqA6dkE4V0eXiip3txQ&oe=697EA385&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "8944365880"
+        }
+      }
+    ]
+  }
+}

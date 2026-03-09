@@ -1,0 +1,157 @@
+{
+  "_meta": {
+    "scrape_ts": "2026-01-27T13:59:36.589566+00:00",
+    "endpoint": "/threads/user/search",
+    "query_name": "bmw",
+    "http_status": 200,
+    "request_url": "https://ensembledata.com/apis/threads/user/search?name=bmw&token=vKLIay8miZKARJKU"
+  },
+  "data": {
+    "data": [
+      {
+        "node": {
+          "username": "bmw",
+          "pk": "43109246",
+          "is_active_on_text_post_app": true,
+          "full_name": "BMW",
+          "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/449633235_992203272636674_7583310386291018386_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUyLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHwqN5bmUpbif3gZjGV9MC7m--pttq1RXRj6KcLzWmOY8PgeNhhOlJTBR3MPI07TMQ&_nc_ohc=ef7ELD-qwjIQ7kNvwE88Mgo&_nc_gid=IXpLdEFYpl6pTossSy9-2A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afp8h-2TwTaDSigpGbjpKNISx_TB6GBwAYucegT8H4-EiA&oe=697E8303&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "43109246"
+        }
+      },
+      {
+        "node": {
+          "username": "bmw__0978",
+          "pk": "1585436269",
+          "is_active_on_text_post_app": true,
+          "full_name": "章鈞為",
+          "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/457787987_350239501515859_2988083032482000684_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QHwqN5bmUpbif3gZjGV9MC7m--pttq1RXRj6KcLzWmOY8PgeNhhOlJTBR3MPI07TMQ&_nc_ohc=Yg9lnKk5LXwQ7kNvwEdLrVg&_nc_gid=IXpLdEFYpl6pTossSy9-2A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfosPtJZXV1S6Z0IvAH9qE93_nDglo6RabOcnQruRzlU-A&oe=697EACD2&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "1585436269"
+        }
+      },
+      {
+        "node": {
+          "username": "bmwusa",
+          "pk": "20266459",
+          "is_active_on_text_post_app": true,
+          "full_name": "BMW USA",
+          "profile_pic_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/358188161_124855193950940_7214229817218515937_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzcuYzIifQ&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QHwqN5bmUpbif3gZjGV9MC7m--pttq1RXRj6KcLzWmOY8PgeNhhOlJTBR3MPI07TMQ&_nc_ohc=U-Lu5SZhkW8Q7kNvwE6wbc7&_nc_gid=IXpLdEFYpl6pTossSy9-2A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afo0gpz8--tHu_jRScMlICtKzkU8LNeANrFzO708GeUHxw&oe=697EA09D&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "20266459"
+        }
+      },
+      {
+        "node": {
+          "username": "tiktokauto_bmw",
+          "pk": "65909693778",
+          "is_active_on_text_post_app": true,
+          "full_name": "Продаж авто BMW. Київ",
+          "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/488618692_9822402667781743_3322314922853022828_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QHwqN5bmUpbif3gZjGV9MC7m--pttq1RXRj6KcLzWmOY8PgeNhhOlJTBR3MPI07TMQ&_nc_ohc=DK_iojzrSZEQ7kNvwGHLlsw&_nc_gid=IXpLdEFYpl6pTossSy9-2A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfrNAzKESX4_b0gaf5BhPkSPsdZAej6a0-Is6gWw196_1A&oe=697E9705&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "65909693778"
+        }
+      },
+      {
+        "node": {
+          "username": "maria.eduarda.bmw",
+          "pk": "9020477064",
+          "is_active_on_text_post_app": true,
+          "full_name": "Maria Eduarda Buscarons Macedo Wiese Di Luca",
+          "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/469740516_473180499128124_5986174706112901132_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHwqN5bmUpbif3gZjGV9MC7m--pttq1RXRj6KcLzWmOY8PgeNhhOlJTBR3MPI07TMQ&_nc_ohc=4rwrx-f7tyQQ7kNvwHzyQDg&_nc_gid=IXpLdEFYpl6pTossSy9-2A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfoJI3GEL8F9ar-r7Ib9RgWdNRG8M190ya5BEY4aV-N3gg&oe=697EA37C&_nc_sid=10d13b",
+          "is_verified": true,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "9020477064"
+        }
+      },
+      {
+        "node": {
+          "username": "bmw_smiling_uz_official",
+          "pk": "70507890766",
+          "is_active_on_text_post_app": true,
+          "full_name": "🥇Champion♥️BMW SMILING UZ🏆",
+          "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/574387189_17891462895361346_2944593891635666455_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHwqN5bmUpbif3gZjGV9MC7m--pttq1RXRj6KcLzWmOY8PgeNhhOlJTBR3MPI07TMQ&_nc_ohc=JOgXkO6lrjcQ7kNvwEilk5S&_nc_gid=IXpLdEFYpl6pTossSy9-2A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afpx4NLoHftLfCUS99wasER-5TdKKwxGGMcTnjnVgbm71g&oe=697E8274&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "70507890766"
+        }
+      },
+      {
+        "node": {
+          "username": "bmw_specialist_medway",
+          "pk": "3144501878",
+          "is_active_on_text_post_app": true,
+          "full_name": "Ariel Jaskiewicz",
+          "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/445459299_1167324984315059_8713301059163165416_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTkuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QHwqN5bmUpbif3gZjGV9MC7m--pttq1RXRj6KcLzWmOY8PgeNhhOlJTBR3MPI07TMQ&_nc_ohc=Ou9iozr4Up8Q7kNvwFrBvoZ&_nc_gid=IXpLdEFYpl6pTossSy9-2A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfrJsgfCeHdOgJn8OzqJSSNOVUHxkFlepbTf5rELozE9qg&oe=697EADC0&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "3144501878"
+        }
+      },
+      {
+        "node": {
+          "username": "milaxa17",
+          "pk": "325482229",
+          "is_active_on_text_post_app": true,
+          "full_name": "ТОП БЛОГЕР ЛНР| НА РОЗОВОЙ BMW | ЛУГАНСК| АЛЧЕВСК | СТАХАНОВ",
+          "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/462202901_936447208319004_8153944230097485218_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODQuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHwqN5bmUpbif3gZjGV9MC7m--pttq1RXRj6KcLzWmOY8PgeNhhOlJTBR3MPI07TMQ&_nc_ohc=oh4sPsukM4cQ7kNvwEeLBKc&_nc_gid=IXpLdEFYpl6pTossSy9-2A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfpV3v2ZyWWmNo__U4zU78sieDkdtgcSa-M9FcduQOP0Kw&oe=697E9C1B&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "325482229"
+        }
+      },
+      {
+        "node": {
+          "username": "s_1000_rrrr",
+          "pk": "71284994719",
+          "is_active_on_text_post_app": true,
+          "full_name": "BMW_S1000_rrrrr",
+          "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/472273936_619116807687565_8617191969237422566_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjQuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QHwqN5bmUpbif3gZjGV9MC7m--pttq1RXRj6KcLzWmOY8PgeNhhOlJTBR3MPI07TMQ&_nc_ohc=CnnHsssB-80Q7kNvwEtftGM&_nc_gid=IXpLdEFYpl6pTossSy9-2A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afo0YlPeTjCYFTDCvbs8Y4Lo6UHxDNy1uXmf65XinEHvIA&oe=697E9230&_nc_sid=10d13b",
+          "is_verified": false,
+          "text_post_app_is_private": null,
+          "friendship_status": null,
+          "follower_count": null,
+          "profile_context_facepile_users": null,
+          "has_onboarded_to_text_post_app": true,
+          "id": "71284994719"
+        }
+      }
+    ]
+  }
+}

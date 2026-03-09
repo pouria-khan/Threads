@@ -1,0 +1,10 @@
+{
+  "user_id": 602725764,
+  "username": "zara",
+  "brand": "Zara",
+  "page": 1,
+  "cursor": "",
+  "http_status": 495,
+  "error_type": "daily_quota_exhausted",
+  "error": "495 Client Error:  for url: https://ensembledata.com/apis/instagram/user/posts?user_id=602725764&depth=25&chunk_size=10&start_cursor=&alternative_method=False&token=vKLIay8miZKARJKU"
+}

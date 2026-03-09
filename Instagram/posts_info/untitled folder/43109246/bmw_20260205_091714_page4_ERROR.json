@@ -1,0 +1,10 @@
+{
+  "user_id": 43109246,
+  "username": "bmw",
+  "brand": "BMW",
+  "page": 4,
+  "cursor": "QVFETExpUExoVUNROUtsazJGWkQ2SmNYZ0JuM2Rvc2FJcTNENExhSHg0X0drUUVNNDZoYWppeUU0cmNxLUxsdVRiTF9HcG9WNFh5MWwwckV0LUZ1QWNQeQ==",
+  "http_status": 495,
+  "error_type": "daily_quota_exhausted",
+  "error": "495 Client Error:  for url: https://ensembledata.com/apis/instagram/user/posts?user_id=43109246&depth=25&chunk_size=10&start_cursor=QVFETExpUExoVUNROUtsazJGWkQ2SmNYZ0JuM2Rvc2FJcTNENExhSHg0X0drUUVNNDZoYWppeUU0cmNxLUxsdVRiTF9HcG9WNFh5MWwwckV0LUZ1QWNQeQ%3D%3D&alternative_method=False&token=vKLIay8miZKARJKU"
+}
