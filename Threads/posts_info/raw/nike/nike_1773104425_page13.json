@@ -1,0 +1,450 @@
+{
+  "data": {
+    "mediaData": {
+      "edges": [
+        {
+          "node": {
+            "thread_items": [
+              {
+                "post": {
+                  "id": "3141881768030574618_63454848350",
+                  "logging_info_token": null,
+                  "pk": "3141881768030574618",
+                  "user": {
+                    "pk": "63454848350",
+                    "friendship_status": null,
+                    "profile_pic_url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-19/467733497_2299328197118830_1129133478722126916_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zOTYuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=hAFHWptAdtkQ7kNvwHl0rgn&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&oh=00_Afy4AVEbyaovHQiCDCp5Z0agSksCpmzxLGGn95NJx0dk5A&oe=69B506E9&_nc_sid=b0e1a0",
+                    "username": "nike",
+                    "id": "63454848350",
+                    "full_name": "Nike",
+                    "transparency_label": null,
+                    "transparency_product": null,
+                    "transparency_product_enabled": false,
+                    "is_verified": true,
+                    "has_onboarded_to_text_post_app": true,
+                    "text_post_app_is_private": false
+                  },
+                  "text_post_app_info": {
+                    "show_header_follow": false,
+                    "id": "XDTTextPostAppMediaInfo:18377260495000375",
+                    "self_thread_info": null,
+                    "is_spoiler_media": false,
+                    "is_markup": false,
+                    "ghost_post_exp_time_ms": null,
+                    "ghost_post_approximate_like_count_str": null,
+                    "ghost_post_reply_type": null,
+                    "ghost_post_approximate_reply_count_str": null,
+                    "is_ghost_post": false,
+                    "direct_reply_count": 339,
+                    "repost_count": 179,
+                    "quote_count": 26,
+                    "reshare_count": null,
+                    "custom_feed_preview_info": null,
+                    "platform_podcast_episode_info": null,
+                    "platform_podcast_info": null,
+                    "link_preview_attachment": null,
+                    "link_preview_response": null,
+                    "linked_inline_media": null,
+                    "snippet_attachment_info": null,
+                    "game_score_share_info": null,
+                    "special_effects_enabled_str": "",
+                    "algo_tweaks_info": null,
+                    "text_fragments": {
+                      "fragments": [
+                        {
+                          "fragment_type": "plaintext",
+                          "link_fragment": null,
+                          "mention_fragment": null,
+                          "plaintext": "Today’s the day. Who’s excited for Wemby’s NBA debut? 🙋",
+                          "linkified_web_url": null,
+                          "linkified_in_app_url": null,
+                          "styling_info": null
+                        }
+                      ]
+                    },
+                    "share_info": {
+                      "quoted_attachment_author_attribution_allowed": true,
+                      "quoted_attachment_post_unavailable": false,
+                      "quoted_attachment_post": null,
+                      "quoted_post": {
+                        "text_post_app_info": {
+                          "is_post_unavailable": false,
+                          "id": "XDTTextPostAppMediaInfo:17988546275130071",
+                          "self_thread_info": null,
+                          "is_spoiler_media": false,
+                          "is_markup": false,
+                          "ghost_post_exp_time_ms": null,
+                          "ghost_post_approximate_like_count_str": null,
+                          "ghost_post_reply_type": null,
+                          "ghost_post_approximate_reply_count_str": null,
+                          "is_ghost_post": false,
+                          "direct_reply_count": 857,
+                          "repost_count": 1039,
+                          "quote_count": 321,
+                          "reshare_count": null,
+                          "custom_feed_preview_info": null,
+                          "platform_podcast_episode_info": null,
+                          "platform_podcast_info": null,
+                          "link_preview_attachment": null,
+                          "link_preview_response": null,
+                          "linked_inline_media": null,
+                          "snippet_attachment_info": null,
+                          "game_score_share_info": null,
+                          "share_info": {
+                            "quoted_attachment_author_attribution_allowed": true,
+                            "quoted_attachment_post_unavailable": false,
+                            "quoted_attachment_post": null,
+                            "quoted_post": null,
+                            "quoted_post_caption": null
+                          },
+                          "special_effects_enabled_str": "",
+                          "algo_tweaks_info": null,
+                          "text_fragments": {
+                            "fragments": [
+                              {
+                                "fragment_type": "plaintext",
+                                "link_fragment": null,
+                                "mention_fragment": null,
+                                "plaintext": "One more sleep until…",
+                                "linkified_web_url": null,
+                                "linkified_in_app_url": null,
+                                "styling_info": null
+                              }
+                            ]
+                          },
+                          "show_header_follow": false,
+                          "self_thread_count": 0,
+                          "tag_header": null,
+                          "reply_to_author": null,
+                          "related_trends_info": null,
+                          "is_liked_by_root_author": false
+                        },
+                        "code": "CuYclsUA0fZ",
+                        "user": {
+                          "username": "nba",
+                          "id": "63098420488",
+                          "pk": "63098420488",
+                          "profile_pic_url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-19/607616234_17940155394100489_2088631185480768873_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=YnHcLIgPvYkQ7kNvwHI0o7u&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&oh=00_AfynwTxF_IYHBs3-AQipD7xaKTTfEzYhSs_0M2dke4LJ3A&oe=69B4F231&_nc_sid=b0e1a0",
+                          "friendship_status": null,
+                          "is_verified": true
+                        },
+                        "canonical_url": null,
+                        "id": "3141386475594270681_63098420488",
+                        "is_paid_partnership": null,
+                        "audio": null,
+                        "caption": {
+                          "text": "One more sleep until…",
+                          "pk": "17988546299130071",
+                          "has_translation": null
+                        },
+                        "caption_is_edited": false,
+                        "pk": "3141386475594270681",
+                        "transcription_data": null,
+                        "carousel_media": null,
+                        "image_versions2": {
+                          "candidates": [
+                            {
+                              "height": 800,
+                              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/529909744_24580928318192041_4684127015833184703_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuRkVFRC5pbWFnZV91cmxnZW4uNjQweDgwMC5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=SoIVoj7BUXUQ7kNvwH0MDnd&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&ig_cache_key=MzE0MTM4NjQ3NTU5NDI3MDY4MQ%3D%3D.3-ccb7-5&oh=00_Afw_Ef3TyOCvKKKLU8NSUXyGoGjQEDZ4MpbM72K3A8bjNw&oe=69B5056B&_nc_sid=b0e1a0",
+                              "width": 640
+                            },
+                            {
+                              "height": 600,
+                              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/529909744_24580928318192041_4684127015833184703_n.jpg?stp=dst-jpg_e15_p480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuRkVFRC5pbWFnZV91cmxnZW4uNjQweDgwMC5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=SoIVoj7BUXUQ7kNvwH0MDnd&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&ig_cache_key=MzE0MTM4NjQ3NTU5NDI3MDY4MQ%3D%3D.3-ccb7-5&oh=00_AfymF7qo10qVbY6QND9MnyFfhPFIjBj5QDyKfvTncFo1mA&oe=69B5056B&_nc_sid=b0e1a0",
+                              "width": 480
+                            },
+                            {
+                              "height": 400,
+                              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/529909744_24580928318192041_4684127015833184703_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuRkVFRC5pbWFnZV91cmxnZW4uNjQweDgwMC5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=SoIVoj7BUXUQ7kNvwH0MDnd&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&ig_cache_key=MzE0MTM4NjQ3NTU5NDI3MDY4MQ%3D%3D.3-ccb7-5&oh=00_AfzHfvpuy35zTTUx435CpP1yudUszon7GX5ujOCOJxMWyw&oe=69B5056B&_nc_sid=b0e1a0",
+                              "width": 320
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/529909744_24580928318192041_4684127015833184703_n.jpg?stp=dst-jpg_e15_p240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuRkVFRC5pbWFnZV91cmxnZW4uNjQweDgwMC5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=SoIVoj7BUXUQ7kNvwH0MDnd&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&ig_cache_key=MzE0MTM4NjQ3NTU5NDI3MDY4MQ%3D%3D.3-ccb7-5&oh=00_AfwvrhJWV3WtQx1C6YKpPxv2HQCgmEyzGD6HvPtX31U-1A&oe=69B5056B&_nc_sid=b0e1a0",
+                              "width": 240
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/529909744_24580928318192041_4684127015833184703_n.jpg?stp=c0.80.640.640a_dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuRkVFRC5pbWFnZV91cmxnZW4uNjQweDgwMC5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=SoIVoj7BUXUQ7kNvwH0MDnd&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&ig_cache_key=MzE0MTM4NjQ3NTU5NDI3MDY4MQ%3D%3D.3-ccb7-5&oh=00_Afx9Iu4iAS9tJC3eEYhd3qlCUAYPtFnXN6qAMXy-xLUpmw&oe=69B5056B&_nc_sid=b0e1a0",
+                              "width": 640
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/529909744_24580928318192041_4684127015833184703_n.jpg?stp=c0.80.640.640a_dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuRkVFRC5pbWFnZV91cmxnZW4uNjQweDgwMC5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=SoIVoj7BUXUQ7kNvwH0MDnd&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&ig_cache_key=MzE0MTM4NjQ3NTU5NDI3MDY4MQ%3D%3D.3-ccb7-5&oh=00_Afx9Iu4iAS9tJC3eEYhd3qlCUAYPtFnXN6qAMXy-xLUpmw&oe=69B5056B&_nc_sid=b0e1a0",
+                              "width": 640
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/529909744_24580928318192041_4684127015833184703_n.jpg?stp=c0.80.640.640a_dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuRkVFRC5pbWFnZV91cmxnZW4uNjQweDgwMC5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=SoIVoj7BUXUQ7kNvwH0MDnd&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&ig_cache_key=MzE0MTM4NjQ3NTU5NDI3MDY4MQ%3D%3D.3-ccb7-5&oh=00_Afx9Iu4iAS9tJC3eEYhd3qlCUAYPtFnXN6qAMXy-xLUpmw&oe=69B5056B&_nc_sid=b0e1a0",
+                              "width": 640
+                            },
+                            {
+                              "height": 480,
+                              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/529909744_24580928318192041_4684127015833184703_n.jpg?stp=c0.80.640.640a_dst-jpg_e15_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuRkVFRC5pbWFnZV91cmxnZW4uNjQweDgwMC5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=SoIVoj7BUXUQ7kNvwH0MDnd&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&ig_cache_key=MzE0MTM4NjQ3NTU5NDI3MDY4MQ%3D%3D.3-ccb7-5&oh=00_AfytaspJxu-v7FrqzigGRaxN1nHDBa-Cq7FRmiJKxXc2hw&oe=69B5056B&_nc_sid=b0e1a0",
+                              "width": 480
+                            },
+                            {
+                              "height": 320,
+                              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/529909744_24580928318192041_4684127015833184703_n.jpg?stp=c0.80.640.640a_dst-jpg_e15_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuRkVFRC5pbWFnZV91cmxnZW4uNjQweDgwMC5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=SoIVoj7BUXUQ7kNvwH0MDnd&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&ig_cache_key=MzE0MTM4NjQ3NTU5NDI3MDY4MQ%3D%3D.3-ccb7-5&oh=00_Afxkzrclo_NG5sj7tmdhVWCqnOireIMiMgpSGKTEEljnwg&oe=69B5056B&_nc_sid=b0e1a0",
+                              "width": 320
+                            },
+                            {
+                              "height": 240,
+                              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/529909744_24580928318192041_4684127015833184703_n.jpg?stp=c0.80.640.640a_dst-jpg_e15_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuRkVFRC5pbWFnZV91cmxnZW4uNjQweDgwMC5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=SoIVoj7BUXUQ7kNvwH0MDnd&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&ig_cache_key=MzE0MTM4NjQ3NTU5NDI3MDY4MQ%3D%3D.3-ccb7-5&oh=00_AfxyHL3qJZReLOPpN61TCFZ9Wn_F5g20Hw9wAw6VbPIW2Q&oe=69B5056B&_nc_sid=b0e1a0",
+                              "width": 240
+                            },
+                            {
+                              "height": 150,
+                              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/529909744_24580928318192041_4684127015833184703_n.jpg?stp=c0.80.640.640a_dst-jpg_e15_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuRkVFRC5pbWFnZV91cmxnZW4uNjQweDgwMC5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=SoIVoj7BUXUQ7kNvwH0MDnd&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&ig_cache_key=MzE0MTM4NjQ3NTU5NDI3MDY4MQ%3D%3D.3-ccb7-5&oh=00_AfzU-1n3zZ_Z9ycEdJro7h5o3jabmu8YBd0J71JLvQbi-A&oe=69B5056B&_nc_sid=b0e1a0",
+                              "width": 150
+                            }
+                          ]
+                        },
+                        "original_height": 900,
+                        "original_width": 720,
+                        "accessibility_caption": null,
+                        "usertags": null,
+                        "video_versions": [
+                          {
+                            "type": 101,
+                            "url": "https://scontent-yyz1-1.cdninstagram.com/o1/v/t16/f2/m69/AQN8lvrbSnQOvK3-RAif00r2fb7Te4OhDby-U07U6XauGED-ZZ8NfX-p0BEGVPaJZOQ94Xmh18Dx4_-_rpTWXino.mp4?strext=1&_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_ohc=bozk3Ls6DSYQ7kNvwG_PgKn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjo2Njc5NTk3NTI4NzUxNzI4LCJhc3NldF9hZ2VfZGF5cyI6OTc2LCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&_nc_ss=8&_nc_zt=28&vs=7f759f3c432fd415&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFBYkZaenRLOFlCQVBOM3hkRHZwSnA0YmtZTEFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRm5mVmhVSktYcWhoU1FDQVAxUy1feUdVUTU0YmtZTEFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm4PmM39_D3RcVAigCQzMsF0BCGZmZmZmaGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqB2XEngEA&oh=00_Afzi8SnR9FGD9H5AdOTDF_y7XwJQC8R2Igo3Hu-M0G8fNw&oe=69B4F5E8"
+                          },
+                          {
+                            "type": 103,
+                            "url": "https://scontent-yyz1-1.cdninstagram.com/o1/v/t16/f2/m69/AQN8lvrbSnQOvK3-RAif00r2fb7Te4OhDby-U07U6XauGED-ZZ8NfX-p0BEGVPaJZOQ94Xmh18Dx4_-_rpTWXino.mp4?strext=1&_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_ohc=bozk3Ls6DSYQ7kNvwG_PgKn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjo2Njc5NTk3NTI4NzUxNzI4LCJhc3NldF9hZ2VfZGF5cyI6OTc2LCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&_nc_ss=8&_nc_zt=28&vs=7f759f3c432fd415&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFBYkZaenRLOFlCQVBOM3hkRHZwSnA0YmtZTEFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRm5mVmhVSktYcWhoU1FDQVAxUy1feUdVUTU0YmtZTEFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm4PmM39_D3RcVAigCQzMsF0BCGZmZmZmaGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqB2XEngEA&oh=00_Afzi8SnR9FGD9H5AdOTDF_y7XwJQC8R2Igo3Hu-M0G8fNw&oe=69B4F5E8"
+                          },
+                          {
+                            "type": 102,
+                            "url": "https://scontent-yyz1-1.cdninstagram.com/o1/v/t16/f2/m69/AQN8lvrbSnQOvK3-RAif00r2fb7Te4OhDby-U07U6XauGED-ZZ8NfX-p0BEGVPaJZOQ94Xmh18Dx4_-_rpTWXino.mp4?strext=1&_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_ohc=bozk3Ls6DSYQ7kNvwG_PgKn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjo2Njc5NTk3NTI4NzUxNzI4LCJhc3NldF9hZ2VfZGF5cyI6OTc2LCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&_nc_ss=8&_nc_zt=28&vs=7f759f3c432fd415&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFBYkZaenRLOFlCQVBOM3hkRHZwSnA0YmtZTEFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRm5mVmhVSktYcWhoU1FDQVAxUy1feUdVUTU0YmtZTEFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm4PmM39_D3RcVAigCQzMsF0BCGZmZmZmaGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqB2XEngEA&oh=00_Afzi8SnR9FGD9H5AdOTDF_y7XwJQC8R2Igo3Hu-M0G8fNw&oe=69B4F5E8"
+                          }
+                        ],
+                        "has_audio": true,
+                        "media_type": 2,
+                        "caption_add_on": null,
+                        "logging_info_token": null,
+                        "like_count": 16251,
+                        "giphy_media_info": null,
+                        "metaPlace": null,
+                        "taken_at": 1688702500,
+                        "is_fb_only": null,
+                        "is_internal_only": null,
+                        "media_overlay_info": null,
+                        "like_and_view_counts_disabled": false
+                      },
+                      "reposted_post": null
+                    },
+                    "is_reply": false,
+                    "reply_to_author": null,
+                    "system_status_message": null,
+                    "reply_control": "everyone",
+                    "private_reply_partner": null,
+                    "self_thread_count": 0,
+                    "tag_header": null,
+                    "root_post_author": null,
+                    "is_liked_by_root_author": false,
+                    "pinned_post_info": {
+                      "is_pinned_to_parent_post": false,
+                      "is_pinned_to_profile": false
+                    },
+                    "related_trends_info": null,
+                    "is_post_unavailable": false,
+                    "post_unavailable_reason": null,
+                    "post_tombstone_info": null,
+                    "hush_info": null
+                  },
+                  "is_paid_partnership": null,
+                  "audio": null,
+                  "caption": {
+                    "text": "Today’s the day. Who’s excited for Wemby’s NBA debut? 🙋",
+                    "pk": "18377260504000375",
+                    "has_translation": null
+                  },
+                  "caption_is_edited": false,
+                  "transcription_data": null,
+                  "carousel_media": null,
+                  "code": "CuaNNJVvRga",
+                  "image_versions2": {
+                    "candidates": []
+                  },
+                  "original_height": 612,
+                  "original_width": 612,
+                  "accessibility_caption": null,
+                  "usertags": null,
+                  "video_versions": null,
+                  "has_audio": null,
+                  "media_type": 19,
+                  "caption_add_on": null,
+                  "like_count": 4485,
+                  "giphy_media_info": null,
+                  "media_overlay_info": null,
+                  "metaPlace": null,
+                  "meta_place": null,
+                  "gen_ai_detection_method": null,
+                  "taken_at": 1688761515,
+                  "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2ExMzg0NGEwZDMxNGNhYmFkYzg2NWFkMmRiYjYzYTczMTQxODgxNzY4MDMwNTc0NjE4In0sInNpZ25hdHVyZSI6IiJ9",
+                  "canonical_url": null,
+                  "like_and_view_counts_disabled": false
+                },
+                "__typename": "XDTThreadItem"
+              }
+            ],
+            "id": "3141881768030574618",
+            "__typename": "XDTThread"
+          },
+          "__typename": "XDTUserTextPostsResponseEdge",
+          "cursor": ""
+        },
+        {
+          "node": {
+            "thread_items": [
+              {
+                "post": {
+                  "id": "3141291952275184439_63454848350",
+                  "logging_info_token": null,
+                  "pk": "3141291952275184439",
+                  "user": {
+                    "pk": "63454848350",
+                    "friendship_status": null,
+                    "profile_pic_url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-19/467733497_2299328197118830_1129133478722126916_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zOTYuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QF_0L2s1nt0QLkRAd1PIurdHgTMoVSE95BmMrO7pkgDnKJEH3ycipReFLXiU4xPMNA&_nc_ohc=hAFHWptAdtkQ7kNvwHl0rgn&_nc_gid=-PFnaAkQlgcTaWufNHFJfQ&edm=AAGeoI8BAAAA&ccb=7-5&oh=00_Afy4AVEbyaovHQiCDCp5Z0agSksCpmzxLGGn95NJx0dk5A&oe=69B506E9&_nc_sid=b0e1a0",
+                    "username": "nike",
+                    "id": "63454848350",
+                    "full_name": "Nike",
+                    "transparency_label": null,
+                    "transparency_product": null,
+                    "transparency_product_enabled": false,
+                    "is_verified": true,
+                    "has_onboarded_to_text_post_app": true,
+                    "text_post_app_is_private": false
+                  },
+                  "text_post_app_info": {
+                    "show_header_follow": false,
+                    "id": "XDTTextPostAppMediaInfo:18264840535157791",
+                    "self_thread_info": null,
+                    "is_spoiler_media": false,
+                    "is_markup": false,
+                    "ghost_post_exp_time_ms": null,
+                    "ghost_post_approximate_like_count_str": null,
+                    "ghost_post_reply_type": null,
+                    "ghost_post_approximate_reply_count_str": null,
+                    "is_ghost_post": false,
+                    "direct_reply_count": 829,
+                    "repost_count": 417,
+                    "quote_count": 104,
+                    "reshare_count": null,
+                    "custom_feed_preview_info": null,
+                    "platform_podcast_episode_info": null,
+                    "platform_podcast_info": null,
+                    "link_preview_attachment": null,
+                    "link_preview_response": null,
+                    "linked_inline_media": null,
+                    "snippet_attachment_info": null,
+                    "game_score_share_info": null,
+                    "special_effects_enabled_str": "",
+                    "algo_tweaks_info": null,
+                    "text_fragments": {
+                      "fragments": [
+                        {
+                          "fragment_type": "plaintext",
+                          "link_fragment": null,
+                          "mention_fragment": null,
+                          "plaintext": "Threads are better with a Swoosh 😉",
+                          "linkified_web_url": null,
+                          "linkified_in_app_url": null,
+                          "styling_info": null
+                        }
+                      ]
+                    },
+                    "share_info": {
+                      "quoted_attachment_author_attribution_allowed": true,
+                      "quoted_attachment_post_unavailable": false,
+                      "quoted_attachment_post": null,
+                      "quoted_post": null,
+                      "reposted_post": null
+                    },
+                    "is_reply": false,
+                    "reply_to_author": null,
+                    "system_status_message": null,
+                    "reply_control": "everyone",
+                    "private_reply_partner": null,
+                    "self_thread_count": 0,
+                    "tag_header": null,
+                    "root_post_author": null,
+                    "is_liked_by_root_author": false,
+                    "pinned_post_info": {
+                      "is_pinned_to_parent_post": false,
+                      "is_pinned_to_profile": false
+                    },
+                    "related_trends_info": null,
+                    "is_post_unavailable": false,
+                    "post_unavailable_reason": null,
+                    "post_tombstone_info": null,
+                    "hush_info": null
+                  },
+                  "is_paid_partnership": null,
+                  "audio": null,
+                  "caption": {
+                    "text": "Threads are better with a Swoosh 😉",
+                    "pk": "18264840541157791",
+                    "has_translation": null
+                  },
+                  "caption_is_edited": false,
+                  "transcription_data": null,
+                  "carousel_media": null,
+                  "code": "CuYHGMnJ9s3",
+                  "image_versions2": {
+                    "candidates": []
+                  },
+                  "original_height": 612,
+                  "original_width": 612,
+                  "accessibility_caption": null,
+                  "usertags": null,
+                  "video_versions": null,
+                  "has_audio": null,
+                  "media_type": 19,
+                  "caption_add_on": null,
+                  "like_count": 7376,
+                  "giphy_media_info": null,
+                  "media_overlay_info": null,
+                  "metaPlace": null,
+                  "meta_place": null,
+                  "gen_ai_detection_method": null,
+                  "taken_at": 1688691203,
+                  "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2ExMzg0NGEwZDMxNGNhYmFkYzg2NWFkMmRiYjYzYTczMTQxMjkxOTUyMjc1MTg0NDM5In0sInNpZ25hdHVyZSI6IiJ9",
+                  "canonical_url": null,
+                  "like_and_view_counts_disabled": false
+                },
+                "__typename": "XDTThreadItem"
+              }
+            ],
+            "id": "3141291952275184439",
+            "__typename": "XDTThread"
+          },
+          "__typename": "XDTUserTextPostsResponseEdge",
+          "cursor": ""
+        }
+      ],
+      "page_info": {
+        "end_cursor": null,
+        "has_next_page": false,
+        "has_previous_page": false,
+        "start_cursor": null
+      }
+    }
+  },
+  "extensions": {
+    "is_final": true,
+    "server_metadata": {
+      "request_start_time_ms": 1773090364484,
+      "time_at_flush_ms": 1773090365124
+    }
+  },
+  "status": "ok",
+  "_meta": {
+    "username": "nike",
+    "user_id": "13460080",
+    "brand": "",
+    "page": 13,
+    "scrape_ts": 1773104425,
+    "cursor_used": "QVFCbmtMZWRTZGk2dHRtQlZZSHIwWllQSlJGQW1zaTB0Q2lLZ09VMEh2TWd6akJyckpsR2IteVpEZjlsOHpfS1hzRDJfb0V6LXkwR3FtcnhxeTZ4eFhHLQ=="
+  }
+}

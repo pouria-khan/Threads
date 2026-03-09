@@ -1,0 +1,8 @@
+{
+  "username": "nike",
+  "user_id": "13460080",
+  "brand": "",
+  "page": 1,
+  "error_type": "playwright_error",
+  "error": "name 'random' is not defined"
+}

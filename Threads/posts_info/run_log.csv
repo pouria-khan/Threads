@@ -1,0 +1,5 @@
+run_id,username,user_id,brand,started_at,ended_at,status,pages_fetched,posts_fetched,error_type,error_message,raw_files
+1773102786,nike,13460080,,2026-03-09T16:33:06.868309,2026-03-09T16:33:12.553764,failed,0,0,playwright_error,name 'random' is not defined,nike_1773102786_page1_ERROR.json
+1773102892,nike,13460080,,2026-03-09T16:34:52.636881,2026-03-09T16:35:47.349155,success,2,23,,,nike_1773102892_page1.json;nike_1773102892_page2.json
+1773104425,nike,13460080,,2026-03-09T17:00:25.947066,2026-03-09T17:06:30.912876,success,13,149,,,nike_1773104425_page1.json;nike_1773104425_page2.json;nike_1773104425_page3.json;nike_1773104425_page4.json;nike_1773104425_page5.json;nike_1773104425_page6.json;nike_1773104425_page7.json;nike_1773104425_page8.json;nike_1773104425_page9.json;nike_1773104425_page10.json;nike_1773104425_page11.json;nike_1773104425_page12.json;nike_1773104425_page13.json
+1773106708,nike,13460080,,2026-03-09T17:38:28.582064,2026-03-09T17:39:37.016230,success,3,35,,,nike_1773106708_page1.json;nike_1773106708_page2.json;nike_1773106708_page3.json
