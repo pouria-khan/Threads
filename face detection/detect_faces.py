@@ -66,7 +66,7 @@ def get_retinaface_version() -> str:
         return 'Unknown'
 
 
-def detect_faces_in_image(image_array: np.ndarray, threshold: float = 0.9) -> int:
+def detect_faces_in_image(image_array: np.ndarray, threshold: float = 0.5) -> dict:
     """
     Detect faces in an image using RetinaFace model.
 
@@ -76,10 +76,10 @@ def detect_faces_in_image(image_array: np.ndarray, threshold: float = 0.9) -> in
 
     Args:
         image_array: Image as numpy array (BGR format from OpenCV)
-        threshold: Detection confidence threshold (default: 0.9 = 90%)
+        threshold: Detection confidence threshold (default: 0.5 = 50%)
 
     Returns:
-        Number of faces detected in the image
+        Dictionary with full detection data or empty dict if no faces found
     """
     try:
         # Run face detection on the image
@@ -89,15 +89,12 @@ def detect_faces_in_image(image_array: np.ndarray, threshold: float = 0.9) -> in
 
         # Handle case where detections is None or empty
         if detections is None:
-            return 0
+            return {}
 
-        # Count number of detected faces (dict keys are "face_1", "face_2", etc.)
-        face_count = len(detections)
-
-        return face_count
+        return detections
     except Exception as e:
-        # If detection fails, return 0 (will be handled by error_flag)
-        return 0
+        # If detection fails, return empty dict (will be handled by error_flag)
+        return {}
 
 
 def process_images(image_dir: str, output_csv: str = 'output/face_presence.csv') -> None:
@@ -154,36 +151,75 @@ def process_images(image_dir: str, output_csv: str = 'output/face_presence.csv')
         if error_flag == 1:
             results.append({
                 'image_filename': image_filename,
+                'face_id': None,
                 'face_presence': 0,
                 'face_count': 0,
+                'bbox_x1': None,
+                'bbox_y1': None,
+                'bbox_x2': None,
+                'bbox_y2': None,
+                'confidence': None,
+                'landmarks': None,
                 'error_flag': 1
             })
             total_errors += 1
             continue
 
         # Run face detection on successfully loaded image
-        # Using threshold of 0.9 (90% confidence) for robust detection
-        face_count = detect_faces_in_image(image_array, threshold=0.9)
+        # Using threshold of 0.5 (50% confidence) for balanced detection
+        detections = detect_faces_in_image(image_array, threshold=0.5)
 
-        # Convert face count to binary face_presence indicator
-        # 1 = at least one face detected, 0 = no faces detected
-        face_presence = 1 if face_count > 0 else 0
+        # Convert to binary face_presence indicator
+        face_presence = 1 if len(detections) > 0 else 0
+        face_count = len(detections)
 
         # Track images with detected faces
         if face_presence == 1:
             images_with_faces += 1
 
-        # Store result for this image
-        results.append({
-            'image_filename': image_filename,
-            'face_presence': face_presence,
-            'face_count': face_count,
-            'error_flag': 0
-        })
+        # If no faces detected, add single row
+        if face_count == 0:
+            results.append({
+                'image_filename': image_filename,
+                'face_id': None,
+                'face_presence': 0,
+                'face_count': 0,
+                'bbox_x1': None,
+                'bbox_y1': None,
+                'bbox_x2': None,
+                'bbox_y2': None,
+                'confidence': None,
+                'landmarks': None,
+                'error_flag': 0
+            })
+        else:
+            # Create one row per detected face with full details
+            for face_id, face_data in detections.items():
+                facial_area = face_data['facial_area']  # [x1, y1, x2, y2]
+                landmarks = face_data['landmarks']  # dict with eye, nose, mouth coords
+                confidence = face_data['score']
+
+                # Format landmarks as string representation
+                landmarks_str = str(landmarks) if landmarks else None
+
+                results.append({
+                    'image_filename': image_filename,
+                    'face_id': face_id,
+                    'face_presence': 1,
+                    'face_count': face_count,
+                    'bbox_x1': int(facial_area[0]),
+                    'bbox_y1': int(facial_area[1]),
+                    'bbox_x2': int(facial_area[2]),
+                    'bbox_y2': int(facial_area[3]),
+                    'confidence': round(float(confidence), 4),
+                    'landmarks': landmarks_str,
+                    'error_flag': 0
+                })
 
     # Step 6: Write results to CSV file
     print(f"\n✓ Writing results to CSV...")
-    csv_columns = ['image_filename', 'face_presence', 'face_count', 'error_flag']
+    csv_columns = ['image_filename', 'face_id', 'face_presence', 'face_count',
+                   'bbox_x1', 'bbox_y1', 'bbox_x2', 'bbox_y2', 'confidence', 'landmarks', 'error_flag']
 
     try:
         with open(output_csv, 'w', newline='', encoding='utf-8') as csvfile:
