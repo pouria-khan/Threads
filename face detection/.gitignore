@@ -16,8 +16,11 @@ build/
 .idea/
 *.swp
 
-# OS
-.DS_Store
-
-# Test data
+# Data and outputs
+output/
 test_images/
+*.csv
+*.h5
+
+# Model cache
+.deepface/
