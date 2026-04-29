@@ -97,13 +97,15 @@ def detect_faces_in_image(image_array: np.ndarray, threshold: float = 0.5) -> di
         return {}
 
 
-def process_images(image_dir: str, output_csv: str = 'output/face_presence.csv') -> None:
+def process_images(image_dir: str, output_csv: str = 'output/face_presence.csv',
+                   output_summary_csv: str = 'output/face_summary.csv') -> None:
     """
     Main pipeline: detect faces in all images from a directory and save results.
 
     Args:
         image_dir: Path to directory containing images
-        output_csv: Path to output CSV file
+        output_csv: Path to detailed face-level output CSV file
+        output_summary_csv: Path to image-level summary CSV file
     """
 
     # Step 1: Set reproducibility seed
@@ -216,19 +218,45 @@ def process_images(image_dir: str, output_csv: str = 'output/face_presence.csv')
                     'error_flag': 0
                 })
 
-    # Step 6: Write results to CSV file
-    print(f"\n✓ Writing results to CSV...")
-    csv_columns = ['image_filename', 'face_id', 'face_presence', 'face_count',
-                   'bbox_x1', 'bbox_y1', 'bbox_x2', 'bbox_y2', 'confidence', 'landmarks', 'error_flag']
+    # Step 6: Write results to CSV files
+    print(f"\n✓ Writing results to CSV files...")
+    face_level_columns = ['image_filename', 'face_id', 'face_presence', 'face_count',
+                          'bbox_x1', 'bbox_y1', 'bbox_x2', 'bbox_y2', 'confidence', 'landmarks', 'error_flag']
 
     try:
+        # Write face-level detailed CSV
         with open(output_csv, 'w', newline='', encoding='utf-8') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+            writer = csv.DictWriter(csvfile, fieldnames=face_level_columns)
             writer.writeheader()
             writer.writerows(results)
-        print(f"  Saved to: {output_csv}")
+        print(f"  Face-level details saved to: {output_csv}")
     except Exception as e:
-        print(f"Error writing CSV: {e}")
+        print(f"Error writing face-level CSV: {e}")
+        sys.exit(1)
+
+    # Generate image-level summary (one row per image)
+    try:
+        image_summary = {}
+        for result in results:
+            img_name = result['image_filename']
+            if img_name not in image_summary:
+                image_summary[img_name] = {
+                    'image_filename': img_name,
+                    'face_presence': result['face_presence'],
+                    'face_count': result['face_count'],
+                    'error_flag': result['error_flag']
+                }
+
+        summary_rows = list(image_summary.values())
+        summary_columns = ['image_filename', 'face_presence', 'face_count', 'error_flag']
+
+        with open(output_summary_csv, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=summary_columns)
+            writer.writeheader()
+            writer.writerows(summary_rows)
+        print(f"  Image-level summary saved to: {output_summary_csv}")
+    except Exception:
+        print(f"Error writing summary CSV")
         sys.exit(1)
 
     # Step 7: Print summary statistics
