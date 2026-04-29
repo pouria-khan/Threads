@@ -32,7 +32,10 @@ python detect_faces.py --image_dir /path/to/images --output_csv custom_output.cs
 
 ## Output
 
-Results are saved to `output/face_presence.csv` with detailed facial detection data. One row per detected face:
+The pipeline generates **two CSV files** with complementary data:
+
+### 1. Face-Level Details (`output/face_presence.csv`)
+Detailed information with one row per detected face:
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -46,14 +49,32 @@ Results are saved to `output/face_presence.csv` with detailed facial detection d
 | landmarks | str | Dictionary with 5 facial landmarks (right_eye, left_eye, nose, mouth_right, mouth_left) |
 | error_flag | int | 1 if processing failed, 0 if successful |
 
+### 2. Image-Level Summary (`output/face_summary.csv`)
+Aggregate statistics with one row per image:
+
+| Column | Type | Description |
+|--------|------|-------------|
+| image_filename | str | Name of the image file |
+| face_presence | int | 1 if face detected, 0 otherwise |
+| face_count | int | Total number of faces in the image |
+| error_flag | int | 1 if processing failed, 0 if successful |
+
 ## Example Output
 
+**Face-Level CSV:**
 ```
 image_filename,face_id,face_presence,face_count,bbox_x1,bbox_y1,bbox_x2,bbox_y2,confidence,landmarks,error_flag
 photo_1.jpg,face_1,1,2,445,613,663,905,0.9995,"{'right_eye': [510.6, 737.8], ...}",0
 photo_1.jpg,face_2,1,2,232,4,686,472,0.9936,"{'right_eye': [441.7, 202.2], ...}",0
-photo_2.jpg,,,0,,,,,None,0
 photo_3.jpg,face_1,1,1,397,62,607,358,0.9994,"{'right_eye': [460.4, 189.6], ...}",0
+```
+
+**Image-Level Summary CSV:**
+```
+image_filename,face_presence,face_count,error_flag
+photo_1.jpg,1,2,0
+photo_2.jpg,0,0,0
+photo_3.jpg,1,1,0
 ```
 
 ## Features
